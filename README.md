@@ -37,7 +37,7 @@ $ python run.py
 
 [![](https://img.shields.io/badge/Youtube-red?logo=Youtube&logoColor=red&labelColor=white)](https://m.youtube.com/@MaddKW)
 
-[![](https://img.shields.io/badge/Saweria-green?logo=Saweria&logoColor=Brightgreen&labelColor=white)](https://saweria.co/MaddKW)
+[![](https://img.shields.io/badge/Saweria-green?logo=Donasi&logoColor=Yellow&labelColor=Black)](https://saweria.co/MaddKW)
 
 [![](https://img.shields.io/badge/Whatsapp-CHAT-green?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6283870666827?text=permisi+bang) <br><br>
 
