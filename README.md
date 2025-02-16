@@ -14,12 +14,12 @@ $ pkg update && pkg upgrade
 $ pkg install python
 $ pkg install git
 $ git clone https://github.com/Madd-KW/butterfly-spamV2
-$ cd butterfly-spam
-$ make setup
+$ cd butterfly-spamV2
+$ pip install -r requirements.txt
 $ python run.py
 
-Atau untuk update script nya dg ketik perintah
-$ cd butterfly-spam
+Untuk update script nya cukup ketik perintah
+$ cd butterfly-spamV2
 $ git pull
 $ ls
 $ python run.py
