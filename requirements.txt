@@ -1,0 +1,5 @@
+requests
+bs4
+rich
+inquirer
+fake_useragent
