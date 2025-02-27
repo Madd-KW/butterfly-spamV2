@@ -30,8 +30,7 @@ $ python run.py
 ### Tampilan Script
 ![template](https://raw.githubusercontent.com/Madd-KW/butterfly-spamV2/refs/heads/main/arsip/IMG_20250215_143009.jpg)
 ### Tampilan Hasil 
-![template](https://raw.githubusercontent.com/Madd-KW/butterfly-spamV2/refs/heads/main/arsip/Screenshot_2025-02-09-07-19-23-65_6012fa4d4ddec268fc5c7112cbb265e7.jpg)
-![template](https://raw.githubusercontent.com/Madd-KW/butterfly-spamV2/refs/heads/main/arsip/Screenshot_2025-02-09-07-18-27-53_cf3cf72bd8e53b0db7ddb0a6f2208af9.jpg)
+
 
 ### My Sosia media
 
